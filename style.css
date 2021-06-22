@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(26, 0, 68);
+    color: whitesmoke;
+    border-style: solid;
+    border: 50;
+    border-color: purple;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
